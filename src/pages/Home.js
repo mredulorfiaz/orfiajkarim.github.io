@@ -1,6 +1,6 @@
 import React from "react";
 
-import { FiFacebook, FiTwitter, FiGithub, FiLinkedin, FiInstagram} from "react-icons/fi";
+// import { FiFacebook, FiTwitter, FiGithub, FiLinkedin, FiInstagram} from "react-icons/fi";
 // import Particles from 'react-particles-js';
 
 
