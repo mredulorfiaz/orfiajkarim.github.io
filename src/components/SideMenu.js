@@ -1,6 +1,6 @@
 import React, { Component } from "react";
 
-import menuimage from "../images/menuimage.jpg";
+import menuimage from "../images/pic.jpg";
 import { Link, NavLink} from "react-router-dom";
 import { IoIosMenu, IoMdClose } from "react-icons/io";
 
@@ -69,7 +69,7 @@ class SideMenu extends Component {
                   </NavLink>
                 </li>
               </ul>
-              <p className="mi-header-copyright">© 2020 JAHIDUL ISLAM</p>
+              <p className="mi-header-copyright">&copy; 2020 Gazi Orfiaj Karim</p>
             </div>
           </nav>
         </>

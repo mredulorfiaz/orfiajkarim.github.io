@@ -66,14 +66,12 @@ const Home = () => {
             <div className="mi-home-content">
               <h1>
                 Hi, I am{" "}
-                <span className="color-theme">Jahidul Islam (Saeid)</span>
+                <span className="color-theme">Gazi Orfiaj Karim</span>
               </h1>
               <p>
-                I am a Web Designer and Developer . I can provide clean code and
-                pixel perfect design. I also make website more &amp; more
-                interactive with web animations.
+                I am a Web Designer and Developer. I mainly work with WordPress where I develop WordPress themes & plugins as well as customize them to meet the client's requirements. I also automate my life using Python. 
               </p>
-              <ul className="mi-socialicons mi-socialicons-bordered">
+              {/* <ul className="mi-socialicons mi-socialicons-bordered">
                 <li>
                   <a href="https://www.facebook.com/jahidulsaeid" target="_blank" rel="noopener noreferrer">
                     <FiFacebook />
@@ -99,7 +97,7 @@ const Home = () => {
                     <FiInstagram />
                   </a>
                 </li>
-              </ul>
+              </ul> */}
             </div>
           </div>
         </div>

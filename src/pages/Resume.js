@@ -34,7 +34,7 @@ const Resume = () => {
                 <div className="mi-progress">
                   <h6 className="mi-progress-title">CSS3</h6>
                   <div className="mi-progress-inner">
-                    <div className="mi-progress-percentage">90%</div>
+                    <div className="mi-progress-percentage">95%</div>
                     <div className="mi-progress-container">
                       <Line
                         percent="90"
@@ -48,52 +48,6 @@ const Resume = () => {
               <div className="col-lg-6 col-12 mt-30">
                 <div className="mi-progress">
                   <h6 className="mi-progress-title">Javascript</h6>
-                  <div className="mi-progress-inner">
-                    <div className="mi-progress-percentage">70%</div>
-                    <div className="mi-progress-container">
-                      <Line
-                        percent="70"
-                        strokeWidth="1"
-                        strokeColor="#007bff"
-                      />
-                    </div>
-                  </div>
-                </div>
-              </div>
-              <div className="col-lg-6 col-12 mt-30">
-                <div className="mi-progress">
-                  <h6 className="mi-progress-title">ReactJS</h6>
-                  <div className="mi-progress-inner">
-                    <div className="mi-progress-percentage">70%</div>
-                    <div className="mi-progress-container">
-                      <Line
-                        percent="70"
-                        strokeWidth="1"
-                        strokeColor="#007bff"
-                      />
-                    </div>
-                  </div>
-                </div>
-              </div>
-
-              <div className="col-lg-6 col-12 mt-30">
-                <div className="mi-progress">
-                  <h6 className="mi-progress-title">MongoDB</h6>
-                  <div className="mi-progress-inner">
-                    <div className="mi-progress-percentage">65%</div>
-                    <div className="mi-progress-container">
-                      <Line
-                        percent="65"
-                        strokeWidth="1"
-                        strokeColor="#007bff"
-                      />
-                    </div>
-                  </div>
-                </div>
-              </div>
-              <div className="col-lg-6 col-12 mt-30">
-                <div className="mi-progress">
-                  <h6 className="mi-progress-title">Express.js</h6>
                   <div className="mi-progress-inner">
                     <div className="mi-progress-percentage">70%</div>
                     <div className="mi-progress-container">
@@ -123,12 +77,12 @@ const Resume = () => {
               </div>
               <div className="col-lg-6 col-12 mt-30">
                 <div className="mi-progress">
-                  <h6 className="mi-progress-title">Wordpress</h6>
+                  <h6 className="mi-progress-title">WordPress Theme Development</h6>
                   <div className="mi-progress-inner">
-                    <div className="mi-progress-percentage">85%</div>
+                    <div className="mi-progress-percentage">80%</div>
                     <div className="mi-progress-container">
                       <Line
-                        percent="85"
+                        percent="70"
                         strokeWidth="1"
                         strokeColor="#007bff"
                       />
@@ -136,6 +90,24 @@ const Resume = () => {
                   </div>
                 </div>
               </div>
+
+              <div className="col-lg-6 col-12 mt-30">
+                <div className="mi-progress">
+                  <h6 className="mi-progress-title">WordPress Customization</h6>
+                  <div className="mi-progress-inner">
+                    <div className="mi-progress-percentage">100%</div>
+                    <div className="mi-progress-container">
+                      <Line
+                        percent="65"
+                        strokeWidth="1"
+                        strokeColor="#007bff"
+                      />
+                    </div>
+                  </div>
+                </div>
+              </div>
+
+              
        
             </div>
           </div>
@@ -178,16 +150,13 @@ const Resume = () => {
                 <h6 className="mi-resume-year">2013 - 2014</h6>
               </div>
               <div className="mi-resume-details">
-                <h5>Dr. Khandaker Mosharraf Hossain College</h5>
+                <h5>Dhaka City College</h5>
                 <h6 className="mi-resume-company">
                   Higher Secondary Certificate(HSC) - Science
                 </h6>
 
                 <p>
-                  Dr.khandaker Mosharraf Hossain College is an academic
-                  institute located at Daudkandi, Cumilla, Bangladesh.It
-                  offers higher-secondary education. It was established on 03
-                  May, 2002.
+                  
                 </p>
               </div>
             </div>
@@ -196,15 +165,12 @@ const Resume = () => {
                 <h6 className="mi-resume-year">2011 - 2012</h6>
               </div>
               <div className="mi-resume-details">
-                <h5>Machhimpur R.R. Institution</h5>
+                <h5>Blue Bird School & College</h5>
                 <h6 className="mi-resume-company">
                   Secondary School Certificate(SSC) - Science
                 </h6>
                 <p>
-                  Machhimpur R.R Institution is an well known Secondary School
-                  situated at Machhimpur, Titas Upazila, Cumilla,
-                  Bangladesh. It is one of the oldest educational institution in
-                  Cumilla. It was established on 1930.
+                  
                 </p>
               </div>
             </div>

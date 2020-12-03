@@ -30,7 +30,7 @@ const About = () => {
               <div className="mi-about-content">
                 <h3>
                   I am{" "}
-                  <span className="color-theme">Jahidul Islam (Saeid)</span>
+                  <span className="color-theme">Gazi Orfiaj Karim</span>
                 </h3>
                 <p>
                   An explorer. Love to learn new technologies. Interested in
@@ -40,12 +40,6 @@ const About = () => {
                   new situations.
                 </p>
                 <ul>
-                  <li>
-                    <b>Full Name</b> Jahidul Islam (Saeid)
-                  </li>
-                  <li>
-                    <b>Age</b> 23 Years
-                  </li>
                   <li>
                     <b>Nationality</b> Bangladesh
                   </li>
@@ -57,14 +51,14 @@ const About = () => {
                     Dhaka, Bangladesh
                   </li>
                 </ul>
-                <a
+                {/* <a
                   href="../pdf/jahidul_islam.pdf"
                   target="_blank"
                   rel="noopener noreferrer"
                   className="mi-button"
                 >
                   Download CV
-                </a>
+                </a> */}
               </div>
             </div>
           </div>

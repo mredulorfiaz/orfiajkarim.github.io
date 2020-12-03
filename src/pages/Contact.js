@@ -104,7 +104,7 @@ const Contact = () => {
                   <div className="mi-contact-infoblock-content">
                     <h6>Phone</h6>
                     <p>
-                      <a href="tel:+8801829738891">+8801829738891</a>
+                      <a href="tel:+8801829738891">+8801</a>
                     </p>
                   </div>
                 </div>
@@ -117,7 +117,7 @@ const Contact = () => {
                     <h6>Email</h6>
                     <p>
                       <a href="mailto:jahidul.saeid@gmail.com">
-                        jahidul.saeid@gmail.com
+                        orfiajkarim@gmail.com
                       </a>
                     </p>
                   </div>
@@ -130,8 +130,7 @@ const Contact = () => {
                   <div className="mi-contact-infoblock-content">
                     <h6>Address</h6>
                     <p>
-                      Dhaka Housing, North Adabor, Mohammadpur, Dhaka,
-                      Bangladesh
+                     Dhaka, Bangladesh
                     </p>
                   </div>
                 </div>
