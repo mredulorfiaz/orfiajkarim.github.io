@@ -1,6 +1,6 @@
 import React from "react";
 
-import AboutImage from "../images/jisaeid.jpg";
+import AboutImage from "../images/aboutpic.jpg";
 import { IoIosColorPalette } from "react-icons/io";
 import { FiCode, FiShoppingBag } from "react-icons/fi";
 import { AiOutlineMobile } from "react-icons/ai";
