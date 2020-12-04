@@ -5,7 +5,7 @@ export const portfolioData = [
     img: "./img/pic1.png",
     demourl: "https://nobailco.com/",
     githuburl: "",
-    description: ""
+    description: "Tools Use: Liquid HTML, CSS, JavaScript, Shopify"
   },
   {
     id: 2,
@@ -13,15 +13,15 @@ export const portfolioData = [
     img: "./img/pic2.png",
     demourl: "https://deronlineunternehmer.com/landing-page-02/",
     githuburl: "",
-    description: ""
+    description: "Tools Used: Astra Theme, Elementor Page Builder, CSS"
   },
   {
     id: 3,
-    name: "Online Accelerator - Business website",
+    name: "Online Business Accelerator - Business website",
     img: "./img/pic4.png",
-    demourl: "https://jahidulsaeid.github.io/react-pics",
+    demourl: "https://onlinebusinessaccelerator.io/",
     githuburl: "",
-    description: ""
+    description: "Tools Used: Astra Theme, Elementor Page builder, WooCommerce"
   },
   {
     id: 4,
@@ -29,15 +29,15 @@ export const portfolioData = [
     img: "./img/pic5.png",
     demourl: "https://katling.com.au",
     githuburl: "",
-    description: ""
+    description: "Tools Used: Custom WordPress theme, WooCommerce"
   },
   {
     id: 5,
     name: "Pet Shopping Website",
-    img: "./img/pic5.png",
+    img: "./img/pic9.png",
     demourl: "https://www.australianpetdoors.com.au/",
     githuburl: "",
-    description: ""
+    description: "Tools Used: Avada Theme, Fusion Builder, CSS"
   },
   {
     id: 5,
@@ -45,6 +45,6 @@ export const portfolioData = [
     img: "./img/pic6.png",
     demourl: "https://whycookalameda.com/",
     githuburl: "",
-    description: ""
+    description: "Tools Used: Enfold Theme, Page Builder, WooCommerce, CSS"
   }
 ];
